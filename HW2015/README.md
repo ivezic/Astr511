@@ -2,7 +2,7 @@
 
 Look in directories Project1 etc. for specific assignments 
 
-Paper assignments for in-class presentations: 
+* Paper assignments for in-class presentations: 
 
 Grace Telford: 
 14. McGurk et al. 2010 (AJ, 139, 1261): "Principal Component Analysis of SDSS Stellar Spectra" 
