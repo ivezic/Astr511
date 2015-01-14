@@ -1,2 +1,2 @@
-* homework projects for the Astr 511 class of Winter 2015 *
-* ipython notebooks *
+* ipython notebooks 
+* with homework projects for Astr 511 class from Winter 2015
