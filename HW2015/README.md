@@ -25,3 +25,7 @@ Nearly Spherical Massive Dark Halo around the Milky Way"
 Grace Telford: 
 14. McGurk et al. 2010 (AJ, 139, 1261): "Principal Component Analysis of SDSS Stellar Spectra" 
 
+Zhanglu Wang:
+16. Schlaufman et al. 2009 (ApJ, 703, 2177): "Insight into the Formation of the Milky Way Through 
+Cold Halo Substructure. I. The ECHOS of Milky Way Formation"
+
