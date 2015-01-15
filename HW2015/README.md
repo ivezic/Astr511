@@ -18,6 +18,10 @@ then send me a pull request.
 David Fleming: 
 3. Helmi & White 2001 (MNRAS 323, 529): "Simple dynamic models of the Sagittarius dwarf galaxy"
 
+Jacob Lustig-Yaeger: 
+15. Sesar et al. 2010 (ApJ, 708, 717): "Light Curve Templates and Galactic Distribution of
+RR Lyrae Stars from Sloan Digital Sky Survey Stripe 82" 
+
 Chris Suberlak: 
 4. Ibata et al. 2001 (ApJ 551, 294): "Great Circle Tidal Streams: Evidence for a
 Nearly Spherical Massive Dark Halo around the Milky Way" 
