@@ -16,7 +16,7 @@ then send me a pull request.
 
 
 David Fleming: 
-3. Helmi & White 2001 (MNRAS 323, 529)" "Simple dynamic models of the Sagittarius dwarf galaxy"
+3. Helmi & White 2001 (MNRAS 323, 529): "Simple dynamic models of the Sagittarius dwarf galaxy"
 
 Chris Suberlak: 
 4. Ibata et al. 2001 (ApJ 551, 294): "Great Circle Tidal Streams: Evidence for a
@@ -28,4 +28,8 @@ Grace Telford:
 Zhanglu Wang:
 16. Schlaufman et al. 2009 (ApJ, 703, 2177): "Insight into the Formation of the Milky Way Through 
 Cold Halo Substructure. I. The ECHOS of Milky Way Formation"
+
+Kolby Weisenburger: 
+13. Kauffmann et al. 2003 (MNRAS, 341, 33): "Stellar Masses and Star Formation Histories for 
+80,000 Galaxies from the Sloan Digital Sky Survey" 
 
