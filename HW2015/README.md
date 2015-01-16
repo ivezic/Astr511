@@ -37,3 +37,6 @@ Kolby Weisenburger:
 13. Kauffmann et al. 2003 (MNRAS, 341, 33): "Stellar Masses and Star Formation Histories for 
 80,000 Galaxies from the Sloan Digital Sky Survey" 
 
+Diana Windemuth: 
+12. Johnston et al. (2008): "Tracing Galaxy Formation with Stellar Halos. II. Relating 
+Substructure in Phase and Abundance Space to Accretion Histories." 
