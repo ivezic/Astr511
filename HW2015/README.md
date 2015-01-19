@@ -18,6 +18,9 @@ then send me a pull request.
 David Fleming: 
 3. Helmi & White 2001 (MNRAS 323, 529): "Simple dynamic models of the Sagittarius dwarf galaxy"
 
+John Lurie:
+2. Dehnen & Binney 1998 (MNRAS 298, 387): "Local stellar kinematics from HIPPARCOS data" 
+
 Jacob Lustig-Yaeger: 
 15. Sesar et al. 2010 (ApJ, 708, 717): "Light Curve Templates and Galactic Distribution of
 RR Lyrae Stars from Sloan Digital Sky Survey Stripe 82" 
