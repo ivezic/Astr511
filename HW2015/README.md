@@ -43,3 +43,7 @@ Kolby Weisenburger:
 Diana Windemuth: 
 12. Johnston et al. (2008): "Tracing Galaxy Formation with Stellar Halos. II. Relating 
 Substructure in Phase and Abundance Space to Accretion Histories." 
+
+Brett Morris: 
+5. Jaffe, W. 1983 (MNRAS 202, 995) A simple model for the distribution of light in spherical galaxies
+
